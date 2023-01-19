@@ -10,6 +10,8 @@ https://stream-01.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5KVsjJ5fHB4DMsp5rq
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w619636970.m3u8
 #EXTINF:-1, CANAL 10 NICARAGUA
 https://dr16kqaca4jpc.cloudfront.net/hls/canal10_480.m3u8
+#EXTINF:-1, CANAL 12 NICARAGUA
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w1406042289.m3u8
 #EXTINF:-1, CANAL 14 NICARAGUA VOS TV
 https://streannlivevostv.cachefly.net/Protected/sp=1;dirmatch=true;ip=152.231.46.34/60fc5141d422581d976571963b25ddf2c85c1d12d028955804e305037759c803/vostv1/vostv1/chunks.m3u8
 #EXTINF:-1, FUTURA TV
