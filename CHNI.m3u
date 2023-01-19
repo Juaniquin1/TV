@@ -3,8 +3,14 @@
 #EXTM3U
 ---- NICARAGUA ----
 #EXTINF:-1, CANAL 4 NICARAGUA
-https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj6_5H8VguWsPJMZBjARalpMi7ZWI2eTniZXZCl7kaNK1)/dm/3/x7rwv8c/s/live-1.m3u8
+https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj_zy-xqV2VxokO2ox5Mn5mDkMpk6xvqaEk7NQf27ZQwn)/dm/3/x7rwv8c/s/live-1.m3u8
 #EXTINF:-1, CANAL 6 NICARAGUA
 https://stream-01.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5KVsjJ5fHB4DMsp5rq3Ec9vBqtGGVx775uSuo_koSSBj)/dm/3/x8h7co3/s/live-1.m3u8
 #EXTINF:-1, CANAL 8 NICARAGUA
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w619636970.m3u8
+#EXTINF:-1, CANAL 10 NICARAGUA
+https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj_zy-xqV2VxokO2ox5Mn5mDkMpk6xvqaEk7NQf27ZQwn)/dm/3/x7rwv8c/s/live-1.m3u8
+#EXTINF:-1, CANAL 14 NICARAGUA VOS TV
+https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj_zy-xqV2VxokO2ox5Mn5mDkMpk6xvqaEk7NQf27ZQwn)/dm/3/x7rwv8c/s/live-1.m3u8
+#EXTINF:-1, FUTURA TV
+https://stream-04.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj_zy-xqV2VxokO2ox5Mn5mDkMpk6xvqaEk7NQf27ZQwn)/dm/3/x7rwv8c/s/live-1.m3u8
