@@ -13,6 +13,8 @@ https://dr16kqaca4jpc.cloudfront.net/hls/canal10_480.m3u8
 #EXTINF:-1, CANAL 12 NICARAGUA
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w1531018478.m3u
 #EXTINF:-1, CANAL 12 NIC LINK
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w529566191.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDIzIDk6NTk6MjMgUE0maGFzaF92YWx1ZT1uSXYwQ013Mnd2ZWNkM1hsaE9oL0F3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w529566191.m3u8
 #EXTINF:-1, CANAL 14 NICARAGUA VOS TV
 https://streannlivevostv.cachefly.net/Protected/sp=1;dirmatch=true;ip=152.231.46.34/60fc5141d422581d976571963b25ddf2c85c1d12d028955804e305037759c803/vostv1/vostv1/chunks.m3u8
+#EXTINF:-1, DEPORTE
+https://dtvott-cbc.akamaized.net/dash_live_1100/dash/1100_ESPN_2_MEX-audio_122082_spa=121600.dash
