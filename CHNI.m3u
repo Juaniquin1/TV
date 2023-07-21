@@ -2,6 +2,10 @@
 
 #EXTM3U
 ---- NICARAGUA ----
+#EXTINF:-1, CANAL WTV NUEVA GUINEA
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1, RT NOTICIAS
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1, CANAL 4 NICARAGUA
 https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj6NQH7G29g_i-wOLul2tJdRNdybYABb6auesLOmRLQYD)/dm/3/x7rwv8c/s/live-1.m3u8
 #EXTINF:-1, CANAL 6 NICARAGUA
