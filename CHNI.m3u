@@ -6,19 +6,11 @@
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1, RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1, CANAL 4 NICARAGUA
-https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj6NQH7G29g_i-wOLul2tJdRNdybYABb6auesLOmRLQYD)/dm/3/x7rwv8c/s/live-1.m3u8
-#EXTINF:-1, CANAL 6 NICARAGUA
-https://stream-01.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5A1493FMGOjZtginRH5SFQythsrfh9NDAzNDpbvJcmRF)/dm/3/x8h7co3/s/live-1.m3u8
-#EXTINF:-1, CANAL 8 NICARAGUA
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w619636970.m3u8
 #EXTINF:-1, CANAL 10 NICARAGUA
 https://dr16kqaca4jpc.cloudfront.net/hls/canal10_480.m3u8
-#EXTINF:-1, CANAL 12 NICARAGUA
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w1531018478.m3u
-#EXTINF:-1, CANAL 12 NIC LINK
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w529566191.m3u8
 #EXTINF:-1, CANAL 14 NICARAGUA VOS TV
-https://streannlivevostv.cachefly.net/Protected/sp=1;dirmatch=true;ip=152.231.46.34/60fc5141d422581d976571963b25ddf2c85c1d12d028955804e305037759c803/vostv1/vostv1/chunks.m3u8
-#EXTINF:-1, DEPORTE
-https://dtvott-cbc.akamaized.net/dash_live_1100/dash/1100_ESPN_2_MEX-audio_122082_spa=121600.dash
+https://streannlivevostv.cachefly.net/Protected/sp=1;dirmatch=true;ip=152.231.33.84/6681a4d946b421b79d38e4d50702d8bdfd66238aa77d7191ba3d72be1d7bd21d/vostv1/vostv1/playlist.m3u8
+#EXTINF:-1, DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1, EURO NEWS INGLES
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
