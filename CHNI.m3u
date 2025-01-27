@@ -18,3 +18,5 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://cdn1.casavision.cdn.moderntv.eu:7909/casavision/stream/FUTURA913/20-hls/live-media.m3u8
 #EXTINF:-1, VOS TV
 https://ott3.streann.com/loadbalancer/services/web-players/channels-reseller-secure/59e60c4997381ef50d15c041/48fdd5af-dd82-4f7c-85f6-8d9794d4ec80/bqj8j3k2lv2e37vduu22ph92p3/59e602322cdc3dbeb831a31e/playlist.m3u8?date=1692238549635&arg1=d3d3LnZvc3R2LmNvbS5uaQ==&device-type=web&device-name=web&device-os=web&device-id=lf6zf92srwjRvRSDkbj4RltyHoDY5PEWC8kPsu2CGiUdLcKnj4&doNotUseRedirect=true
+#EXTINF:-1, FUTURA
+https://movitvapp.com/home#FUTURA913
